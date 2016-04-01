@@ -1,0 +1,5 @@
+D:\2.Work\3.Desktop\Github\MvcModuleAsp\HauDev.MvcModule\bin\Debug\HauDev.MvcModule.dll
+D:\2.Work\3.Desktop\Github\MvcModuleAsp\HauDev.MvcModule\bin\Debug\HauDev.MvcModule.pdb
+D:\2.Work\3.Desktop\Github\MvcModuleAsp\HauDev.MvcModule\obj\Debug\HauDev.MvcModule.csprojResolveAssemblyReference.cache
+D:\2.Work\3.Desktop\Github\MvcModuleAsp\HauDev.MvcModule\obj\Debug\HauDev.MvcModule.dll
+D:\2.Work\3.Desktop\Github\MvcModuleAsp\HauDev.MvcModule\obj\Debug\HauDev.MvcModule.pdb

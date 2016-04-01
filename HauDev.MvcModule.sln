@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HauDev.MvcModule", "HauDev.MvcModule\HauDev.MvcModule.csproj", "{A60640C1-D616-4CBA-8781-E5311B15E950}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTest", "WebTest\WebTest.csproj", "{41DD6829-02E2-42FB-83BF-6EC91CAAE2C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HauDev.MvcModuleTest", "HauDev.MvcModuleTest\HauDev.MvcModuleTest.csproj", "{9A495F21-3C71-4906-B9C5-BD3A7BBE728E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{A60640C1-D616-4CBA-8781-E5311B15E950}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A60640C1-D616-4CBA-8781-E5311B15E950}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A60640C1-D616-4CBA-8781-E5311B15E950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41DD6829-02E2-42FB-83BF-6EC91CAAE2C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41DD6829-02E2-42FB-83BF-6EC91CAAE2C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41DD6829-02E2-42FB-83BF-6EC91CAAE2C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41DD6829-02E2-42FB-83BF-6EC91CAAE2C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A495F21-3C71-4906-B9C5-BD3A7BBE728E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A495F21-3C71-4906-B9C5-BD3A7BBE728E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A495F21-3C71-4906-B9C5-BD3A7BBE728E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A495F21-3C71-4906-B9C5-BD3A7BBE728E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

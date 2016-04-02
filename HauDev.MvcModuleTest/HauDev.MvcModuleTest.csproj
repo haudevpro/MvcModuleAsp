@@ -71,6 +71,9 @@
     <Folder Include="Modules\Product\Controller\" />
     <Folder Include="Modules\Product\Model\" />
     <Folder Include="Modules\Product\View\" />
+    <Folder Include="Themes\Default\css\" />
+    <Folder Include="Themes\Default\image\" />
+    <Folder Include="Themes\Default\js\" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">

@@ -18,3 +18,4 @@ D:\2.Work\3.Desktop\Github\MvcModuleAsp\HauDev.MvcModuleTest\bin\HauDev.MvcModul
 D:\2.Work\3.Desktop\Github\MvcModuleAsp\HauDev.MvcModuleTest\obj\Debug\HauDev.MvcModuleTest.csprojResolveAssemblyReference.cache
 D:\2.Work\3.Desktop\Github\MvcModuleAsp\HauDev.MvcModuleTest\obj\Debug\HauDev.MvcModuleTest.dll
 D:\2.Work\3.Desktop\Github\MvcModuleAsp\HauDev.MvcModuleTest\obj\Debug\HauDev.MvcModuleTest.pdb
+D:\2.Work\3.Desktop\Github\MvcModuleAsp\HauDev.MvcModuleTest\bin\Microsoft.Web.Infrastructure.dll

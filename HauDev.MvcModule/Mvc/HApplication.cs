@@ -20,6 +20,18 @@ namespace HauDev.MvcModule.Mvc
                 return preModule;
             }
         }
+        private string moduleDefault;
+        protected string ModuleDefault
+        {
+            get
+            {
+                if (string.IsNullOrEmpty(moduleDefault))
+                    moduleDefault = ConfigurationManager.AppSettings["ModuleDefault"];
+                if (string.IsNullOrEmpty(moduleDefault))
+                    moduleDefault = "Home";
+                return moduleDefault;
+            }
+        }
         public bool IsReusable
         {
             get
@@ -30,7 +42,8 @@ namespace HauDev.MvcModule.Mvc
 
         public void ProcessRequest(HttpContext context)
         {
-            context.Response.Write(string.Format("<a href='{0}'>Xin chào</a>{1}", PreModule, context.Request.Url.Query));
+            context.Response.Write(string.Format("<script type=\"text/javascript\">alert({0})</script><a href='{0}'>Xin chào</a>{1}", PreModule, ModuleDefault));
+            
         }
     }
 }
